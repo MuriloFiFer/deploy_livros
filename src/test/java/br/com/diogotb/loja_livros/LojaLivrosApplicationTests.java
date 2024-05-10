@@ -1,10 +1,10 @@
-package com.example.deploy_ex1;
+package br.com.diogotb.loja_livros;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DeployEx1ApplicationTests {
+class LojaLivrosApplicationTests {
 
 	@Test
 	void contextLoads() {

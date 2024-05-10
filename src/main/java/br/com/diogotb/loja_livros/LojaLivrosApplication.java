@@ -1,4 +1,4 @@
-package br.com.muriloff.lojaLivro;
+package br.com.diogotb.loja_livros;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

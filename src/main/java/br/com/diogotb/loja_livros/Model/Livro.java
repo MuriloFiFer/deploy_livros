@@ -1,4 +1,4 @@
-package br.com.muriloff.lojaLivro.Model;
+package br.com.diogotb.loja_livros.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
